@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Ananya Iyer 1",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "niche": "Fashion",
+    "platform": "Instagram",
+    "followers": 224908,
+    "engagementRate": 5.9,
+    "country": "India",
+    "bio": "Hey there! I am Ananya, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 37,
+      "female": 63
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ananya Iyer 2",
+    "avatar": "https://i.pravatar.cc/150?img=2",
+    "niche": "Vlogging",
+    "platform": "LinkedIn",
+    "followers": 1375619,
+    "engagementRate": 5.2,
+    "country": "India",
+    "bio": "Hey there! I am Ananya, creating dope content around Fitness. Join the journey!",
+    "audienceBreakdown": {
+      "male": 38,
+      "female": 62
+    }
+  },
+  {
+    "id": 3,
+    "name": "Olivia Brown 3",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "niche": "Tech",
+    "platform": "Instagram",
+    "followers": 573995,
+    "engagementRate": 7.4,
+    "country": "UAE",
+    "bio": "Hey there! I am Olivia, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 39,
+      "female": 61
+    }
+  },
+  {
+    "id": 4,
+    "name": "Rohan Das 4",
+    "avatar": "https://i.pravatar.cc/150?img=4",
+    "niche": "Finance",
+    "platform": "YouTube",
+    "followers": 780062,
+    "engagementRate": 6.9,
+    "country": "India",
+    "bio": "Hey there! I am Rohan, creating dope content around Vlogging. Join the journey!",
+    "audienceBreakdown": {
+      "male": 57,
+      "female": 43
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sneha Reddy 5",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "niche": "Finance",
+    "platform": "LinkedIn",
+    "followers": 61185,
+    "engagementRate": 2.3,
+    "country": "India",
+    "bio": "Hey there! I am Sneha, creating dope content around Fitness. Join the journey!",
+    "audienceBreakdown": {
+      "male": 40,
+      "female": 60
+    }
+  },
+  {
+    "id": 6,
+    "name": "Olivia Brown 6",
+    "avatar": "https://i.pravatar.cc/150?img=6",
+    "niche": "Travel",
+    "platform": "Instagram",
+    "followers": 653284,
+    "engagementRate": 8.3,
+    "country": "USA",
+    "bio": "Hey there! I am Olivia, creating dope content around Vlogging. Join the journey!",
+    "audienceBreakdown": {
+      "male": 41,
+      "female": 59
+    }
+  },
+  {
+    "id": 7,
+    "name": "Lucas Martinez 7",
+    "avatar": "https://i.pravatar.cc/150?img=7",
+    "niche": "Fashion",
+    "platform": "Twitter",
+    "followers": 1272468,
+    "engagementRate": 5,
+    "country": "Germany",
+    "bio": "Hey there! I am Lucas, creating dope content around Gaming. Join the journey!",
+    "audienceBreakdown": {
+      "male": 41,
+      "female": 59
+    }
+  },
+  {
+    "id": 8,
+    "name": "Kriti Malhotra 8",
+    "avatar": "https://i.pravatar.cc/150?img=8",
+    "niche": "Fashion",
+    "platform": "Twitter",
+    "followers": 1304335,
+    "engagementRate": 1.4,
+    "country": "India",
+    "bio": "Hey there! I am Kriti, creating dope content around Lifestyle. Join the journey!",
+    "audienceBreakdown": {
+      "male": 67,
+      "female": 33
+    }
+  },
+  {
+    "id": 9,
+    "name": "Aarav Sharma 9",
+    "avatar": "https://i.pravatar.cc/150?img=9",
+    "niche": "Travel",
+    "platform": "YouTube",
+    "followers": 1183663,
+    "engagementRate": 2.6,
+    "country": "India",
+    "bio": "Hey there! I am Aarav, creating dope content around Finance. Join the journey!",
+    "audienceBreakdown": {
+      "male": 53,
+      "female": 47
+    }
+  },
+  {
+    "id": 10,
+    "name": "Pooja Patel 10",
+    "avatar": "https://i.pravatar.cc/150?img=10",
+    "niche": "Tech",
+    "platform": "YouTube",
+    "followers": 718364,
+    "engagementRate": 1.7,
+    "country": "India",
+    "bio": "Hey there! I am Pooja, creating dope content around Travel. Join the journey!",
+    "audienceBreakdown": {
+      "male": 54,
+      "female": 46
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sneha Reddy 11",
+    "avatar": "https://i.pravatar.cc/150?img=11",
+    "niche": "Finance",
+    "platform": "Twitter",
+    "followers": 1772270,
+    "engagementRate": 8.3,
+    "country": "India",
+    "bio": "Hey there! I am Sneha, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 39,
+      "female": 61
+    }
+  },
+  {
+    "id": 12,
+    "name": "Olivia Brown 12",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "niche": "Vlogging",
+    "platform": "Instagram",
+    "followers": 1538766,
+    "engagementRate": 2.4,
+    "country": "Canada",
+    "bio": "Hey there! I am Olivia, creating dope content around Travel. Join the journey!",
+    "audienceBreakdown": {
+      "male": 41,
+      "female": 59
+    }
+  },
+  {
+    "id": 13,
+    "name": "Aarav Sharma 13",
+    "avatar": "https://i.pravatar.cc/150?img=13",
+    "niche": "Travel",
+    "platform": "Instagram",
+    "followers": 1376162,
+    "engagementRate": 8.1,
+    "country": "India",
+    "bio": "Hey there! I am Aarav, creating dope content around Gaming. Join the journey!",
+    "audienceBreakdown": {
+      "male": 53,
+      "female": 47
+    }
+  },
+  {
+    "id": 14,
+    "name": "Aarav Sharma 14",
+    "avatar": "https://i.pravatar.cc/150?img=14",
+    "niche": "Vlogging",
+    "platform": "Twitter",
+    "followers": 1341173,
+    "engagementRate": 1.7,
+    "country": "India",
+    "bio": "Hey there! I am Aarav, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 69,
+      "female": 31
+    }
+  },
+  {
+    "id": 15,
+    "name": "Pooja Patel 15",
+    "avatar": "https://i.pravatar.cc/150?img=15",
+    "niche": "Fashion",
+    "platform": "YouTube",
+    "followers": 986369,
+    "engagementRate": 8.9,
+    "country": "India",
+    "bio": "Hey there! I am Pooja, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 32,
+      "female": 68
+    }
+  },
+  {
+    "id": 16,
+    "name": "Kriti Malhotra 16",
+    "avatar": "https://i.pravatar.cc/150?img=16",
+    "niche": "Travel",
+    "platform": "YouTube",
+    "followers": 1676280,
+    "engagementRate": 4.8,
+    "country": "India",
+    "bio": "Hey there! I am Kriti, creating dope content around Travel. Join the journey!",
+    "audienceBreakdown": {
+      "male": 69,
+      "female": 31
+    }
+  },
+  {
+    "id": 17,
+    "name": "Lucas Martinez 17",
+    "avatar": "https://i.pravatar.cc/150?img=17",
+    "niche": "Lifestyle",
+    "platform": "Twitter",
+    "followers": 522319,
+    "engagementRate": 5.8,
+    "country": "UK",
+    "bio": "Hey there! I am Lucas, creating dope content around Vlogging. Join the journey!",
+    "audienceBreakdown": {
+      "male": 34,
+      "female": 66
+    }
+  },
+  {
+    "id": 18,
+    "name": "Ananya Iyer 18",
+    "avatar": "https://i.pravatar.cc/150?img=18",
+    "niche": "Fashion",
+    "platform": "Twitter",
+    "followers": 475976,
+    "engagementRate": 7.3,
+    "country": "India",
+    "bio": "Hey there! I am Ananya, creating dope content around Vlogging. Join the journey!",
+    "audienceBreakdown": {
+      "male": 54,
+      "female": 46
+    }
+  },
+  {
+    "id": 19,
+    "name": "Liam Smith 19",
+    "avatar": "https://i.pravatar.cc/150?img=19",
+    "niche": "Vlogging",
+    "platform": "Twitter",
+    "followers": 1721978,
+    "engagementRate": 5.6,
+    "country": "UAE",
+    "bio": "Hey there! I am Liam, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 61,
+      "female": 39
+    }
+  },
+  {
+    "id": 20,
+    "name": "Liam Smith 20",
+    "avatar": "https://i.pravatar.cc/150?img=20",
+    "niche": "Lifestyle",
+    "platform": "YouTube",
+    "followers": 300953,
+    "engagementRate": 7.7,
+    "country": "UK",
+    "bio": "Hey there! I am Liam, creating dope content around Finance. Join the journey!",
+    "audienceBreakdown": {
+      "male": 45,
+      "female": 55
+    }
+  },
+  {
+    "id": 21,
+    "name": "Alex Johnson 21",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "niche": "Vlogging",
+    "platform": "Twitter",
+    "followers": 171040,
+    "engagementRate": 4.4,
+    "country": "Germany",
+    "bio": "Hey there! I am Alex, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 45,
+      "female": 55
+    }
+  },
+  {
+    "id": 22,
+    "name": "Amit Mishra 22",
+    "avatar": "https://i.pravatar.cc/150?img=22",
+    "niche": "Fitness",
+    "platform": "YouTube",
+    "followers": 1197159,
+    "engagementRate": 7.8,
+    "country": "India",
+    "bio": "Hey there! I am Amit, creating dope content around Tech. Join the journey!",
+    "audienceBreakdown": {
+      "male": 61,
+      "female": 39
+    }
+  },
+  {
+    "id": 23,
+    "name": "Rahul Verma 23",
+    "avatar": "https://i.pravatar.cc/150?img=23",
+    "niche": "Fashion",
+    "platform": "Twitter",
+    "followers": 234854,
+    "engagementRate": 2.3,
+    "country": "India",
+    "bio": "Hey there! I am Rahul, creating dope content around Travel. Join the journey!",
+    "audienceBreakdown": {
+      "male": 62,
+      "female": 38
+    }
+  },
+  {
+    "id": 24,
+    "name": "Lucas Martinez 24",
+    "avatar": "https://i.pravatar.cc/150?img=24",
+    "niche": "Fitness",
+    "platform": "Twitter",
+    "followers": 1144192,
+    "engagementRate": 5.7,
+    "country": "Canada",
+    "bio": "Hey there! I am Lucas, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 58,
+      "female": 42
+    }
+  },
+  {
+    "id": 25,
+    "name": "Rahul Verma 25",
+    "avatar": "https://i.pravatar.cc/150?img=25",
+    "niche": "Travel",
+    "platform": "YouTube",
+    "followers": 1669937,
+    "engagementRate": 7.6,
+    "country": "India",
+    "bio": "Hey there! I am Rahul, creating dope content around Vlogging. Join the journey!",
+    "audienceBreakdown": {
+      "male": 36,
+      "female": 64
+    }
+  },
+  {
+    "id": 26,
+    "name": "Kriti Malhotra 26",
+    "avatar": "https://i.pravatar.cc/150?img=26",
+    "niche": "Travel",
+    "platform": "Instagram",
+    "followers": 1565482,
+    "engagementRate": 7.8,
+    "country": "India",
+    "bio": "Hey there! I am Kriti, creating dope content around Lifestyle. Join the journey!",
+    "audienceBreakdown": {
+      "male": 61,
+      "female": 39
+    }
+  },
+  {
+    "id": 27,
+    "name": "Kriti Malhotra 27",
+    "avatar": "https://i.pravatar.cc/150?img=27",
+    "niche": "Vlogging",
+    "platform": "LinkedIn",
+    "followers": 1072125,
+    "engagementRate": 8.8,
+    "country": "India",
+    "bio": "Hey there! I am Kriti, creating dope content around Fitness. Join the journey!",
+    "audienceBreakdown": {
+      "male": 60,
+      "female": 40
+    }
+  },
+  {
+    "id": 28,
+    "name": "Kriti Malhotra 28",
+    "avatar": "https://i.pravatar.cc/150?img=28",
+    "niche": "Finance",
+    "platform": "LinkedIn",
+    "followers": 654259,
+    "engagementRate": 4.5,
+    "country": "India",
+    "bio": "Hey there! I am Kriti, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 68,
+      "female": 32
+    }
+  },
+  {
+    "id": 29,
+    "name": "Sophia Wilson 29",
+    "avatar": "https://i.pravatar.cc/150?img=29",
+    "niche": "Lifestyle",
+    "platform": "YouTube",
+    "followers": 460251,
+    "engagementRate": 4.4,
+    "country": "Canada",
+    "bio": "Hey there! I am Sophia, creating dope content around Travel. Join the journey!",
+    "audienceBreakdown": {
+      "male": 45,
+      "female": 55
+    }
+  },
+  {
+    "id": 30,
+    "name": "Rahul Verma 30",
+    "avatar": "https://i.pravatar.cc/150?img=30",
+    "niche": "Fashion",
+    "platform": "Twitter",
+    "followers": 1081445,
+    "engagementRate": 7.9,
+    "country": "India",
+    "bio": "Hey there! I am Rahul, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 51,
+      "female": 49
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pooja Patel 31",
+    "avatar": "https://i.pravatar.cc/150?img=31",
+    "niche": "Fashion",
+    "platform": "Twitter",
+    "followers": 1679406,
+    "engagementRate": 3.5,
+    "country": "India",
+    "bio": "Hey there! I am Pooja, creating dope content around Vlogging. Join the journey!",
+    "audienceBreakdown": {
+      "male": 37,
+      "female": 63
+    }
+  },
+  {
+    "id": 32,
+    "name": "Ananya Iyer 32",
+    "avatar": "https://i.pravatar.cc/150?img=32",
+    "niche": "Finance",
+    "platform": "YouTube",
+    "followers": 1813389,
+    "engagementRate": 2.9,
+    "country": "India",
+    "bio": "Hey there! I am Ananya, creating dope content around Fitness. Join the journey!",
+    "audienceBreakdown": {
+      "male": 62,
+      "female": 38
+    }
+  },
+  {
+    "id": 33,
+    "name": "Rahul Verma 33",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "niche": "Travel",
+    "platform": "YouTube",
+    "followers": 1043857,
+    "engagementRate": 3.2,
+    "country": "India",
+    "bio": "Hey there! I am Rahul, creating dope content around Gaming. Join the journey!",
+    "audienceBreakdown": {
+      "male": 57,
+      "female": 43
+    }
+  },
+  {
+    "id": 34,
+    "name": "Pooja Patel 34",
+    "avatar": "https://i.pravatar.cc/150?img=34",
+    "niche": "Vlogging",
+    "platform": "Twitter",
+    "followers": 699116,
+    "engagementRate": 4.4,
+    "country": "India",
+    "bio": "Hey there! I am Pooja, creating dope content around Lifestyle. Join the journey!",
+    "audienceBreakdown": {
+      "male": 63,
+      "female": 37
+    }
+  },
+  {
+    "id": 35,
+    "name": "Mia Anderson 35",
+    "avatar": "https://i.pravatar.cc/150?img=35",
+    "niche": "Fitness",
+    "platform": "Twitter",
+    "followers": 1409213,
+    "engagementRate": 8.2,
+    "country": "UAE",
+    "bio": "Hey there! I am Mia, creating dope content around Finance. Join the journey!",
+    "audienceBreakdown": {
+      "male": 45,
+      "female": 55
+    }
+  },
+  {
+    "id": 36,
+    "name": "Emma Watson 36",
+    "avatar": "https://i.pravatar.cc/150?img=36",
+    "niche": "Fashion",
+    "platform": "Twitter",
+    "followers": 847749,
+    "engagementRate": 4.1,
+    "country": "India",
+    "bio": "Hey there! I am Emma, creating dope content around Vlogging. Join the journey!",
+    "audienceBreakdown": {
+      "male": 47,
+      "female": 53
+    }
+  },
+  {
+    "id": 37,
+    "name": "Lucas Martinez 37",
+    "avatar": "https://i.pravatar.cc/150?img=37",
+    "niche": "Fitness",
+    "platform": "Instagram",
+    "followers": 786849,
+    "engagementRate": 7.8,
+    "country": "USA",
+    "bio": "Hey there! I am Lucas, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 56,
+      "female": 44
+    }
+  },
+  {
+    "id": 38,
+    "name": "Sophia Wilson 38",
+    "avatar": "https://i.pravatar.cc/150?img=38",
+    "niche": "Tech",
+    "platform": "YouTube",
+    "followers": 189965,
+    "engagementRate": 5.7,
+    "country": "UAE",
+    "bio": "Hey there! I am Sophia, creating dope content around Fashion. Join the journey!",
+    "audienceBreakdown": {
+      "male": 50,
+      "female": 50
+    }
+  },
+  {
+    "id": 39,
+    "name": "Olivia Brown 39",
+    "avatar": "https://i.pravatar.cc/150?img=39",
+    "niche": "Fitness",
+    "platform": "YouTube",
+    "followers": 1641183,
+    "engagementRate": 5.9,
+    "country": "Germany",
+    "bio": "Hey there! I am Olivia, creating dope content around Fitness. Join the journey!",
+    "audienceBreakdown": {
+      "male": 58,
+      "female": 42
+    }
+  },
+  {
+    "id": 40,
+    "name": "Sneha Reddy 40",
+    "avatar": "https://i.pravatar.cc/150?img=40",
+    "niche": "Vlogging",
+    "platform": "Instagram",
+    "followers": 1673033,
+    "engagementRate": 7.7,
+    "country": "India",
+    "bio": "Hey there! I am Sneha, creating dope content around Lifestyle. Join the journey!",
+    "audienceBreakdown": {
+      "male": 50,
+      "female": 50
+    }
+  }
+]
